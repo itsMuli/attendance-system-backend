@@ -1,0 +1,69 @@
+20220926	17:18:09	66e131c3-eac2-42c9-aa37-f0b788f4d174	GET	undefinedt/
+20220926	17:18:09	8932743b-e714-4ce3-bf10-1579deaa0e71	GET	undefinedt/css/style.css
+20220926	17:18:14	9d12725f-b979-4d6f-a406-07943e20b224	GET	undefinedt/index
+20220926	17:19:40	c544f0b7-ad6d-4975-b0e3-cb8d287d271c	GET	undefinedt/
+20220926	17:19:49	b7f36876-bc45-43b2-8c85-c84fc4314d1a	GET	undefinedt/css/style.css
+20220926	17:19:57	3baf90da-11a8-4808-a8e2-457d7d810f7b	GET	undefinedt/
+20220926	17:21:50	fd42aff6-fee5-4616-92ce-529ae89811e1	GET	undefinedt/
+20220926	17:22:08	6253e5de-aed4-48dd-90a2-5395e7e95ff8	GET	undefinedt/chain
+20220926	17:23:20	30692b6e-a7b9-4336-9939-e4009f55e209	GET	undefinedt/
+20220926	17:23:20	5e0e54f2-3434-446f-834d-8ccb852fec58	GET	undefinedt/chain
+20220926	17:27:22	4d7e2647-3c5a-4d18-8103-743daba9a102	GET	undefinedt/
+20220926	17:27:45	7164e2cb-0b1b-4365-a7fe-87e06c8df116	GET	undefinedt/
+20220926	17:27:48	22374287-b3e1-40c7-b4d0-56318d26ed80	GET	undefinedt/
+20220926	17:30:51	e6c1933e-3199-4f34-b1e8-ccf852f0475c	GET	undefinedt/
+20220926	17:30:51	bc1a2fdf-6e1b-47cb-9ea9-7bf19011b6e6	GET	undefinedt/css/style.css
+20220926	17:34:36	d3602853-bcda-4f4a-b261-d22d8efcd606	GET	undefinedt/
+20220926	17:34:36	49cf1852-52f7-4acf-b058-b5f4dd863a0f	GET	undefinedt/css/style.css
+20220926	17:38:31	30bed668-8cc5-4faa-bb6e-7dda14d8ad9f	OPTIONS	https://www.google.comt/
+20220926	17:38:31	b0af2ac0-b85f-486a-bd60-4be25ce98c9e	GET	https://www.google.comt/
+20220926	17:44:38	6e028f67-4d3c-4c02-a46a-ebf5d6a7b2a9	OPTIONS	https://www.google.comt/
+20220926	17:44:39	a8a57134-7c6c-4415-a982-1c6a3c5aacec	GET	https://www.google.comt/
+20220926	18:05:21	f9ed0175-82a8-4dac-a34e-e7fba5540591	OPTIONS	https://www.google.comt/
+20220926	18:05:22	8a64630d-08cb-4949-b441-36273e628837	GET	https://www.google.comt/
+20220926	18:06:45	4d773c40-80ab-421c-8950-9e80e7889c84	OPTIONS	https://www.google.comt/
+20220926	18:06:45	bcf55420-453a-49e9-9119-563a55040daf	GET	https://www.google.comt/
+20220926	18:06:53	342aff75-f5dd-4ed9-b339-5c10a6f37356	OPTIONS	https://www.google.comt/
+20220926	18:06:53	cd386d9d-3201-4a3e-98f5-e871bb883a0c	GET	https://www.google.comt/
+20220926	18:07:05	6817e598-9294-4a41-bd53-a9ce07f35a13	OPTIONS	https://www.google.comt/
+20220926	18:07:05	1e657de5-4706-4dcc-aa2a-03c2ebdd1778	GET	https://www.google.comt/
+20220926	18:15:19	fed7b66d-1ef8-46c7-abaf-1e29873b8b0b	OPTIONS	https://www.google.comt/
+20220926	18:15:19	7caa934a-5d54-48c1-b2ae-d83fa6e8c476	GET	https://www.google.comt/
+20220926	18:18:26	f7bcab93-6d80-4de4-bf65-a642f7eb61a9	GET	undefinedt/
+20220926	18:18:33	047f4901-febe-4d5f-8aa6-cf2e4a8bc2d2	GET	undefinedt/
+20220926	18:19:25	915f085b-6a22-460a-ba81-2f4ade20b368	GET	undefinedt/
+20220926	18:19:25	e5067c7c-7c5d-4da2-9fb0-945e69164eeb	GET	undefinedt/css/style.css
+20220926	18:19:29	dfcd4451-61e8-45a4-9caf-80b7afc33b0f	GET	undefinedt/
+20220926	18:19:29	e2a0b147-7b71-4a0d-b81b-45e3a400922b	GET	undefinedt/css/style.css
+20220926	18:29:19	c266b4f5-8b9e-4bb7-8241-c480cde09d3f	GET	undefinedt/
+20220926	18:29:19	7249b18a-7030-4694-9ea5-0c4ec4724e97	Error: Not allowed by CORS
+20220926	18:30:15	10ab0331-5211-4b08-9fb3-39f4bb233b83	GET	undefinedt/
+20220926	18:30:15	2b9ab93d-99d8-4d7e-be0c-6f2ceb91c2bf	GET	undefinedt/css/style.css
+20220926	18:31:46	dabf99d7-86fd-42fc-81f7-12ede1fe6210	GET	undefinedt/rose
+20220926	18:31:46	e017e920-32e8-47fd-810d-4e0bf52802ab	GET	undefinedt/css/style.css
+20220926	18:35:23	72d91d7c-f3f1-4608-8e5a-268090b2bf78	GET	undefinedt/rose
+20220926	18:35:39	202db0df-b401-4fb2-aaeb-98d3d3c4af94	GET	undefinedt/rose
+20220926	18:37:01	783156a3-2a3b-4340-a5d8-9cff31190e76	GET	undefinedt/rose
+20220926	18:37:14	d07f018e-97b3-4047-8cf3-5eae1568989d	GET	undefinedt/rose
+20220926	18:48:33	63a9b01a-4b0a-450d-bb03-1e4d09b14088	GET	undefinedt/subdir
+20220926	18:48:33	9f22ce55-c523-44d7-a08c-a2778f4191f2	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\index.html'
+20220926	18:54:37	30e95a0f-137a-40ba-b90b-ebe8799ec129	GET	undefinedt/
+20220926	18:54:37	140a7cb6-ba01-4aaf-8c3d-24497c621807	GET	undefinedt/css/style.css
+20220926	18:54:53	bbe44bca-296a-4312-b735-b3472f4c8f1d	GET	undefinedt/subdir
+20220926	18:54:53	ddd30438-ca8b-4d8e-835d-cd3e8b518c44	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\index.html'
+20220926	18:56:34	1bc5464f-d4b8-47c3-9444-5c242d0a4161	GET	undefinedt/
+20220926	18:56:34	0ca423e5-e42f-415c-9423-90a245314cbe	GET	undefinedt/css/style.css
+20220926	18:56:58	61b6f8cc-69be-4a07-abed-9e0dfeef9a2f	GET	undefinedt/subdir
+20220926	18:56:58	a4dfe3c8-953e-4c11-9b85-1138a3e75639	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\index.html'
+20220926	18:58:29	fb23addf-5fbe-4698-ac8c-b7119a7f14ae	GET	undefinedt/subdir/text
+20220926	18:58:39	0eddecbe-f493-4b3f-9fd5-2cf678c1d489	GET	undefinedt/subdir/test
+20220926	18:58:39	be22e2b5-aae0-4cad-9e96-a2dec9b5de43	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\test.html'
+20220926	18:58:56	ce86a71c-6a5c-46c7-b38f-c1cabaabe95f	GET	undefinedt/subdir/views
+20220926	18:59:05	71fd5f74-e815-4400-974c-b6a1cf236152	GET	undefinedt/subdir/routes
+20220926	18:59:21	4d8f43fa-c086-498e-bfda-f40cd4d53fa3	GET	undefinedt/subdir/index.html
+20220926	18:59:21	140b027f-8fcf-4bd6-8a7f-44f94c0f9dc8	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\index.html'
+20220926	19:00:15	790f75b3-eee0-43ae-bb19-522b9c24ea9b	GET	undefinedt/subdir/index
+20220926	19:00:15	09a0d64b-070d-4adc-ae36-f188c4d019ed	Error: ENOENT: no such file or directory, stat 'C:\Users\Clevin\Desktop\REACT\Att_syst\subdir\index.html'
+20220926	19:09:35	77cf36af-22f8-4474-9ca0-29848c09dacf	GET	undefinedt/subdir
+20220926	19:09:36	65e88893-4f5a-4bb9-bcb7-c934324abf4e	GET	undefinedt/
+20220926	19:09:36	969df29f-78d4-4b71-8db3-ba0360b252a2	GET	undefinedt/css/style.css
