@@ -222,3 +222,25 @@
 20220927	18:17:41	3a4e5c04-045e-4771-a9f6-6a6727140d5e	POST	undefinedt/register
 20220927	18:19:30	4e348de6-b897-4cad-945c-afb2cf039a82	POST	undefinedt/register
 20220927	18:47:33	a81ed5c3-2c8c-40cd-a2be-dcd97a28e018	POST	undefinedt/auth
+20220927	19:39:17	d64ef533-eb35-4b34-ad58-91fa6fdd980f	POST	undefinedt/auth
+20220927	19:40:10	bcb2ec6f-9fab-45a1-ac73-796b5c7cf311	POST	undefinedt/auth
+20220927	19:40:33	8723452a-6a0f-44fd-8252-00868c2d0b16	POST	undefinedt/auth
+20220927	19:42:48	e6c58afe-c11c-42a4-8407-b86465e35067	POST	undefinedt/auth
+20220927	19:44:00	70988568-a78e-4b7f-a39b-a38b28cd8694	POST	undefinedt/auth
+20220927	19:45:15	7e7d8276-9b6b-4287-8563-2343c2d1da64	GET	undefinedt/students
+20220927	19:49:07	54ae589d-d919-4059-8661-f3dfff75bfec	POST	undefinedt/auth
+20220927	19:49:31	a01f2751-a26e-4265-b626-912637be5ac3	GET	undefinedt/students
+20220927	19:49:35	2c1c7bb3-d50b-403f-8bd7-2a48858649be	GET	undefinedt/students
+20220927	19:49:36	e7f2bd2c-7ba2-4efa-a94d-c13f26b8cfc4	GET	undefinedt/students
+20220927	19:49:57	65ab04ad-b0c5-44cb-9b20-769c18051f63	POST	undefinedt/students
+20220927	19:49:59	6315e2d2-9b9d-446c-8478-f182df5c46be	POST	undefinedt/students
+20220927	20:32:21	ad3175a2-172d-41bd-b218-973b6db47a96	POST	undefinedt/auth
+20220927	21:10:41	5092b6f2-b6a6-4ec8-8d8e-395b4f1d6895	POST	undefinedt/auth
+20220927	21:11:34	4b9db18b-b89d-43c8-af0c-825981bb80dd	POST	undefinedt/refresh
+20220927	21:12:06	84db8d7c-8304-448f-8029-b2e4fb576cb8	GET	undefinedt/refresh
+20220927	21:12:06	cc8cbb89-11d4-4edb-b866-b64ffa226282	TypeError: Cannot read properties of undefined (reading 'username')
+20220927	21:12:23	17eba884-3d1b-4241-ac1c-846635d30fbf	GET	undefinedt/refresh
+20220927	21:12:23	2359eb8f-d23b-42da-a60b-f276208510f2	TypeError: Cannot read properties of undefined (reading 'username')
+20220927	21:14:03	2fda8645-7a89-48d9-9841-7accb30837ce	POST	undefinedt/auth
+20220927	21:15:52	238327f8-d9db-442b-bb97-f0e046d131ce	GET	undefinedt/refresh
+20220927	21:15:52	564d371f-3a2d-4f39-bf65-b43e6d9a935d	TypeError: Cannot read properties of undefined (reading 'username')
