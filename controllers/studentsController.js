@@ -15,7 +15,7 @@ const createNewStudent = (req, res) => {
    }
 
    if (!newStudent.firstname || !newStudent.lastname) {
-    return res.status(400).json({ 'message': 'First and last names are required.'})
+    return res.status(400).json({ 'message': `First and last names are required.`})
    }
 
    data.setStudents([...data.students, newStudent]);
@@ -25,7 +25,7 @@ const createNewStudent = (req, res) => {
 const updateStudent = (req, res) => {
     const student = data.students.find(stud => stud.id === parseInt(req.body.id));
     if (!student) {
-        return res.status(400).json({ "message": 'Student ID ${req.body.id} not found' });
+        return res.status(400).json({ "message": `Student ID ${req.body.id} not found` });
     }
     if (req.body.firstname) student.firstname = req.body.firstname;
     if (req.body.lastname) student.lastname = req.body.lastname;
@@ -38,7 +38,7 @@ const updateStudent = (req, res) => {
 const deleteStudent = (req, res) => {
     const student = data.students.find(stud => stud.id === parseInt(req.body.id));
     if (!student) {
-        return res.status(400).json({ "message": 'Student ID ${req.body.id} not found' });
+        return res.status(400).json({ "message": `Student ID ${req.body.id} not found` });
     }
     const filteredArray = data.students.filter(stud => stud.id !== parseInt(req.body.id));
     data.setStudents([...filteredArray]);

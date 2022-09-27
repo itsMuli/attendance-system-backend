@@ -219,3 +219,6 @@
 20220927	17:31:04	be822e62-9fbc-4370-aa6d-eca859849159	POST	undefinedt/students
 20220927	17:31:04	8ffeed37-933e-4dd6-8eff-852dd9cb73df	TypeError: Cannot read properties of undefined (reading 'id')
 20220927	17:31:43	e9a06718-5558-4a04-b0af-2068fc3d2ef4	PUT	undefinedt/students
+20220927	18:17:41	3a4e5c04-045e-4771-a9f6-6a6727140d5e	POST	undefinedt/register
+20220927	18:19:30	4e348de6-b897-4cad-945c-afb2cf039a82	POST	undefinedt/register
+20220927	18:47:33	a81ed5c3-2c8c-40cd-a2be-dcd97a28e018	POST	undefinedt/auth
