@@ -244,3 +244,42 @@
 20220927	21:14:03	2fda8645-7a89-48d9-9841-7accb30837ce	POST	undefinedt/auth
 20220927	21:15:52	238327f8-d9db-442b-bb97-f0e046d131ce	GET	undefinedt/refresh
 20220927	21:15:52	564d371f-3a2d-4f39-bf65-b43e6d9a935d	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:24:52	4a68f6e3-630c-430e-a062-a168bde7ef16	POST	undefinedt/register
+20220930	15:25:02	c7b90bf0-48c5-4029-8508-f564b9714210	POST	undefinedt/register
+20220930	15:31:54	9cceb9e7-a2e5-487d-8dec-ee50d7c22482	POST	undefinedt/auth
+20220930	15:32:11	977c6bae-0bbe-4c87-85e4-83a1d1eb240e	POST	undefinedt/auth
+20220930	15:32:16	2b3c149f-45a6-4bd3-ad3a-afd1b81608d2	POST	undefinedt/auth
+20220930	15:33:52	3d9cd0ba-255c-46cb-8e36-c63de8dd5d67	POST	undefinedt/auth
+20220930	15:34:15	f16e4987-5b3c-4d9e-ade1-0bf9bdcd62b3	GET	undefinedt/refresh
+20220930	15:34:15	7b6be63c-f3ae-490c-9d17-f63ce163ad1e	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:35:16	8d8dd57f-b6d5-478e-9305-66ece435cb15	GET	undefinedt/refresh
+20220930	15:35:16	66d6d2f6-6464-467a-80ae-69507ef7a6f1	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:35:17	1ca87385-6dc3-4312-9d65-60842d21bfc2	GET	undefinedt/refresh
+20220930	15:35:17	d2fe5e74-3991-438e-80fe-93b7f61396ed	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:36:41	b6a65267-931c-4759-9d57-8e56ca6de5a2	POST	undefinedt/auth
+20220930	15:36:49	6727ce6e-4452-4b8c-8be6-81fdcf883a76	POST	undefinedt/auth
+20220930	15:36:54	5788f6df-9cd5-4979-9da1-b4635e14fce9	POST	undefinedt/auth
+20220930	15:37:25	9497d5e7-99d4-45b0-8938-d6c1ac752589	GET	undefinedt/refresh
+20220930	15:37:25	8a14ebf4-1f55-4ead-8a3d-23dd70471dcf	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:37:28	1c0b5502-f6b7-41d7-871b-65fb3aee4175	GET	undefinedt/refresh
+20220930	15:37:28	cb2acfd2-3aae-4832-8538-13f6f03cf8f0	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:42:12	c5be19c7-33cc-4208-bccf-7e5eae899b2d	POST	undefinedt/auth
+20220930	15:42:37	e3bd0a9d-5d14-4779-b2cd-be877b30cf4a	GET	undefinedt/refresh
+20220930	15:42:37	5b1f9cd2-c357-493e-92b1-3226b354ccaa	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:44:33	5a281f86-ac7f-4043-b605-77500e0aabf9	GET	undefinedt/refresh
+20220930	15:44:33	f47a3a63-ebf2-4012-8c9e-3547602362eb	TypeError: Cannot read properties of undefined (reading 'username')
+20220930	15:45:37	0a447a57-bcbd-4013-aacb-bf512013782d	GET	undefinedt/refresh
+20220930	15:45:48	6e054c82-ad7d-409f-8de0-69dd3e80e773	GET	undefinedt/refresh
+20220930	15:45:53	0aa17664-56fb-4054-8ccc-f4a642a4fcce	GET	undefinedt/refresh
+20220930	15:45:57	2739bbed-5c34-46e7-b862-6f771cb90d97	GET	undefinedt/refresh
+20220930	15:46:40	f540e8d4-5c7b-408b-9a6f-52e91ed8c9af	POST	undefinedt/auth
+20220930	15:47:02	970d335f-2c2e-4309-bb35-892002a9336e	GET	undefinedt/refresh
+20220930	15:47:46	d9f120e2-f0a3-4293-9e46-4add67abb292	POST	undefinedt/auth
+20220930	15:47:55	95c210a2-fc8a-46cc-aea8-4b27c7c6be9f	GET	undefinedt/refresh
+20220930	16:15:02	88340363-1382-4284-a214-f2caf35ee666	POST	undefinedt/register
+20220930	16:15:30	40940f3b-6185-4945-8652-f922b89b0a6c	POST	undefinedt/auth
+20220930	16:16:25	b3202ae0-85c2-425d-b5ef-fb2dafb22658	GET	undefinedt/logout
+20220930	16:17:08	27d164c0-5576-4920-be86-275cc4aa2190	GET	undefinedt/refresh
+20220930	16:19:11	3b1d003f-8277-4ddd-9749-07a074ac1e6b	GET	undefinedt/refresh
+20220930	16:19:33	bbba595b-42a7-442d-b121-6a9aa5c31b9b	POST	undefinedt/auth
+20220930	16:19:47	e84350fb-255a-417c-8232-0223de0ec65a	GET	undefinedt/refresh
